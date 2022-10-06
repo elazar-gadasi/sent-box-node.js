@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "in test",
+  "main": "app",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test",
+    "start": "node .",
+    "dev": "node . && node test && cd test && node testing && ECHO ELAZAL ELAZA "
+  },
+  "author": "elazar gadasi",
+  "license": "ISC"
+}
