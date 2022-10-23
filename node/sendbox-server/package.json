@@ -1,0 +1,19 @@
+{
+  "name": "sendbox-server",
+  "version": "1.0.0",
+  "description": "sendbox",
+  "main": "app.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon ."
+  },
+  "author": "elazar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "express": "^4.18.2"
+  }
+}
